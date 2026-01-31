@@ -1,6 +1,8 @@
 pandas
 numpy
 matplotlib
+scipy
+seaborn
 scikit-learn
 pmdarima
 statsmodels
